@@ -5,3 +5,4 @@ echo "pika";
 echo "ka";
 echo "kkkkkkk";
 echo "milkTea";
+?>
